@@ -1,0 +1,13 @@
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\bin\Debug\net9.0\CQRS.Core.deps.json
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\bin\Debug\net9.0\CQRS.Core.dll
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\bin\Debug\net9.0\CQRS.Core.pdb
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.csproj.AssemblyReference.cache
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.AssemblyInfoInputs.cache
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.AssemblyInfo.cs
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.csproj.CoreCompileInputs.cache
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.sourcelink.json
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.dll
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\obj\Debug\net9.0\refint\CQRS.Core.dll
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\obj\Debug\net9.0\CQRS.Core.pdb
+C:\Users\90535\Desktop\Projects\SocialMediaPosts.Kafka\CQRS-ES\CQRS.Core\obj\Debug\net9.0\ref\CQRS.Core.dll
